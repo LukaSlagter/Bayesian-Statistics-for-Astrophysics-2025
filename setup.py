@@ -10,11 +10,11 @@ if path.exists('README.md'):
 setup(
     name="bayes24",
     version='0.0.dev0',
-    description="Course materials for Bayesian Statistics for Astrophysics 2024",
+    description="Course materials for Bayesian Statistics for Astrophysics 2025",
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url="https://github.com/t-kist/Bayesian-Statistics-for-Astrophysics-2024",
-    author='Timo Kist',
+    url="https://github.com/t-kist/Bayesian-Statistics-for-Astrophysics-2025",
+    author='Kutay Nazil, Luka Slagter, Sjoert van Velzen',
     packages=find_packages(exclude=["tests"]),
     install_requires=[
         "numpy",
