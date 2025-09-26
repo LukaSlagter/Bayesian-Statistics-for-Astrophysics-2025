@@ -1,8 +1,7 @@
-Bayesian Statistics for Astrophysics 2024
+Bayesian Statistics for Astrophysics 2025
 =========================================
 
-This is the webpage of the course Bayesian Statistics for Astrophysics 2024. Here we will subsequently add more and more lecture material, and in particular the lecture notes that you will be working on in small groups.
-
+This is the webpage of the course Bayesian Statistics for Astrophysics 2025. 
 
 .. toctree::
    :caption: Lecture Notes
