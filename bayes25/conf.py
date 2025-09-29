@@ -17,12 +17,12 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Bayesian Statistics for Astrophysics 2025'
-copyright = '2025, Kutay Nazil, Luka Slagter, Sjoert van Velzen, [Bayesian Statistics for Astrophysics class of 2025]'
-author = 'Kutay Nazil, Luka Slagter, Sjoert van Velzen, [Bayesian Statistics for Astrophysics class of 2025]'
+project = 'Bayesian Statistics for Astrophysics 2024'
+copyright = '2024, Timo Kist, Sjoert van Velzen, [Bayesian Statistics for Astrophysics class of 2024]'
+author = 'Timo Kist, Sjoert van Velzen, [Bayesian Statistics for Astrophysics class of 2024]'
 
 # The full version, including alpha/beta/rc tags
-release = 'v0.0'
+release = 'v1.0'
 
 
 # -- General configuration ---------------------------------------------------
